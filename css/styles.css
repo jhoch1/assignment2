@@ -21,3 +21,8 @@ img {
     box-shadow: 3px 3px #f5fdc5;
     
 }
+
+#logo {
+    box-shadow: none;
+    height: 60px;
+}
