@@ -1,3 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: helvetica;
+}
+
 img {
     box-shadow: 5px 5px #fc96aa;
     
@@ -17,6 +25,9 @@ img {
     
 }
 
+.greenblueborder {
+    border: #01e0c6;
+}
 #special-pic {
     box-shadow: 3px 3px #f5fdc5;
     
